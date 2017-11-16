@@ -1,0 +1,12 @@
+﻿{
+  "version": "1.0.0-*",
+  "dependencies": {
+    "System.Net.Http": "4.3.1"
+  },
+  "frameworks": {
+    "net462": {}
+  },
+  "runtimes": {
+    "win": {}
+  }
+}
